@@ -3,7 +3,7 @@
 Este é um projeto simples de **Contador Regressivo** construído com **React**, **Vite**, **TypeScript** e **Tailwind CSS**. A aplicação permite que os usuários configurem um contador regressivo, informando o tempo que deseja contar, e o contador iniciará automaticamente até chegar a zero, com a possibilidade de pausar e reiniciar.
 
 ## Deploy
-- [Live]()
+- [Live](https://react-contador-regressivo.vercel.app/)
 
 ## Funcionalidades
 
